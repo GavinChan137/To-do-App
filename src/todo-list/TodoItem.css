@@ -1,0 +1,16 @@
+.toDoItemContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.toDoItemTitle {
+    padding: 5px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.toDoItemButton {
+    padding: 5px;
+    border: 1px solid red;
+    margin: 5px;
+}

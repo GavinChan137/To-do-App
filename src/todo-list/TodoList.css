@@ -1,0 +1,10 @@
+.addInputContainer {
+    display: flex;
+    padding: 5px;
+}
+
+.addInputButton {
+    padding: 5px;
+    border: 1px solid black;
+    margin: 5px;
+}
